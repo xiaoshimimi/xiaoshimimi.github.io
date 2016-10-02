@@ -24,4 +24,5 @@ github_username:  xiaoshimimi
 
 # Build settings
 markdown: kramdown
+md: kramdown
 theme: minima
