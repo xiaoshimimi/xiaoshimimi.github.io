@@ -6,8 +6,8 @@
 </description>
     <link>https://xiaoshimimi.github.io/travel/</link>
     <atom:link href="https://xiaoshimimi.github.io/travel/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 22:31:53 +0800</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 22:31:53 +0800</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2016 22:45:22 +0800</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 22:45:22 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -40,9 +40,9 @@
     
       <item>
         <title>First Test</title>
-        <description>&lt;p&gt;##First try&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt;&lt;br /&gt;
-&lt;img src=&quot;/travel/images/2016-10-01/img1.jpg&quot; alt=&quot;inset a graph&quot; /&gt;&lt;/p&gt;
+        <description>&lt;h2 id=&quot;first-try&quot;&gt;First try&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt;&lt;br /&gt;
+&lt;img src=&quot;https://xiaoshimimi.github.io/travel/images/2016-10-01/img1.jpg&quot; alt=&quot;inset a graph&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 +0800</pubDate>
         <link>https://xiaoshimimi.github.io/travel/2016/10/01/first-test.html</link>
