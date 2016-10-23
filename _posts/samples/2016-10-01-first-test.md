@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First try
-tags: sample
+tag: sample
 ---
 ## First try  
 ```code```  
